@@ -1,0 +1,24 @@
+h1 {
+    color: black;
+    
+}
+body {
+    background-color: antiquewhite;
+    border: solid thick;
+
+}
+ul{
+    color: black;
+}
+li{
+    color: black ;
+}
+.a{
+    color: rgb(255, 13, 13);
+}
+.m{
+    color: coral;
+}
+.p{
+    color: coral;
+}

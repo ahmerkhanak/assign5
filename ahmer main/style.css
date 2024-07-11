@@ -1,0 +1,31 @@
+.cont{
+    border: solid 10px purple;
+    border-radius: 20px;
+    background-color: lightcoral;
+}
+.assign{
+    text-align: center;
+    color: #1a237e;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightcoral;
+    
+}
+.container{
+    border: solid 10px purple;
+    border-radius: 20px;
+    background-color: lightcoral;
+}
+.assignment{
+    text-align: center;
+    color: #1a237e;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+.main{
+    text-align: center;
+    color: #1a237e;
+    border: solid 10px purple;
+    border-radius: 15px;
+    background-color: lightcoral;
+}

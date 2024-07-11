@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    background-color: gray;
+ 
+
+}
+
+
+
+.container h1 {
+ 
+    color: #34495e;
+    padding-left: 600px;
+    background-color: #faebd7;
+    padding-right: 750px;
+}
+
+.form-container {
+    background-color:  #faebd7;
+    border: 20px solid #95a5a6;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+.form-container form p {
+    margin: 10px 0;
+}
+
+.form-container label {
+    display: inline-block;
+    width: 150px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="date"],
+.form-container input[type="email"],
+.form-container input[type="number"],
+.form-container textarea {
+    width: calc(100% - 160px);
+    padding: 8px;
+    border: 1px solid #95a5a6;
+    border-radius: 5px;
+}
+
+.form-container input[type="radio"],
+.form-container input[type="checkbox"] {
+    margin-left: 10px;
+}
+
+.form-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.form-container table th,
+.form-container table td {
+    border: 1px solid #1abc9c;
+    padding: 10px;
+    text-align: left;
+}
+
+.form-container input[type="submit"],
+.form-container input[type="reset"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #16a085;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.form-container input[type="reset"] {
+    background-color: #d9534f;
+}
+.btn{
+
+padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #5cb85c;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 10px;
+    text-decoration: none;
+
+}
+.bttn{
+    display: flex;
+   align-items: center;padding: 10px 20px;
+   width:80px;
+   border: none;
+   border-radius: 5px;
+   background-color: #5cb85c;
+   color: #fff;
+   cursor: pointer;
+   margin-right: 20px;
+   text-decoration: none;}
+
